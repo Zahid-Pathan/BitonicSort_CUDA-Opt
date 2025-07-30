@@ -19,6 +19,13 @@ int nextPowerOf2(int n) {
     return 1 << count;
 }
 
+
+__device__ void swap(int* arr, int i, int j) {
+    int temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+}
+
 int main(int argc, char* argv[]) {
     if (argc < 2) {
         printf("Usage: %s <array_size>\n", argv[0]);
