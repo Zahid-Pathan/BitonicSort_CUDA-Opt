@@ -12,8 +12,8 @@ nvcc --version
 
 <img width="1589" height="317" alt="image" src="https://github.com/user-attachments/assets/fc7b2092-03ae-4009-bdaa-8eadd56a10f3" />
 
+<img width="1582" height="257" alt="image" src="https://github.com/user-attachments/assets/dc78c44b-e3ed-44c9-86d4-09659eb80975" />
 
 <img width="1572" height="533" alt="image" src="https://github.com/user-attachments/assets/31b0dbb5-66e0-4bd7-98e8-fc9455b396f1" />
-
 
 <img width="1557" height="297" alt="image" src="https://github.com/user-attachments/assets/702eeb73-648b-4e67-bc98-26f4c2b7a18a" />
